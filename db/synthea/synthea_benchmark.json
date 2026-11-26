@@ -1,0 +1,140 @@
+{
+  "dataset": "MITRE Synthea synthetic patient population",
+  "data_directory": "C:\\Users\\HP\\Desktop\\project\\db\\synthea",
+  "purpose": "software benchmark only; no real-world clinical validity",
+  "synthetic_population_seed": 20261121,
+  "rows": 1089,
+  "condition_classes": 19,
+  "top_1_accuracy": 0.32967032967032966,
+  "top_5_recall": 0.7912087912087912,
+  "macro_f1": 0.14399350589302462,
+  "classification_report": {
+    "Acute bronchitis (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 15.0
+    },
+    "Acute infective cystitis (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "Acute viral pharyngitis (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 20.0
+    },
+    "Anemia (disorder)": {
+      "precision": 0.38372093023255816,
+      "recall": 0.7674418604651163,
+      "f1-score": 0.5116279069767442,
+      "support": 43.0
+    },
+    "Chronic sinusitis (disorder)": {
+      "precision": 0.16666666666666666,
+      "recall": 0.05263157894736842,
+      "f1-score": 0.08,
+      "support": 38.0
+    },
+    "Essential hypertension (disorder)": {
+      "precision": 0.34375,
+      "recall": 0.44,
+      "f1-score": 0.38596491228070173,
+      "support": 25.0
+    },
+    "Fracture of bone (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 3.0
+    },
+    "Gingival disease (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 7.0
+    },
+    "Gingivitis (disorder)": {
+      "precision": 0.34146341463414637,
+      "recall": 0.7,
+      "f1-score": 0.45901639344262296,
+      "support": 40.0
+    },
+    "Infection of tooth (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "Ischemic heart disease (disorder)": {
+      "precision": 0.5,
+      "recall": 0.3333333333333333,
+      "f1-score": 0.4,
+      "support": 3.0
+    },
+    "Laceration - injury (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 5.0
+    },
+    "Loss of teeth (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 11.0
+    },
+    "Metabolic syndrome X (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "Otitis media (disorder)": {
+      "precision": 0.3055555555555556,
+      "recall": 0.6875,
+      "f1-score": 0.4230769230769231,
+      "support": 16.0
+    },
+    "Overdose (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "Primary dental caries (disorder)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 5.0
+    },
+    "Streptococcal sore throat (disorder)": {
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1-score": 0.3333333333333333,
+      "support": 5.0
+    },
+    "Viral sinusitis (disorder)": {
+      "precision": 0.25,
+      "recall": 0.1,
+      "f1-score": 0.14285714285714285,
+      "support": 30.0
+    },
+    "accuracy": 0.32967032967032966,
+    "macro avg": {
+      "precision": 0.17321876668889089,
+      "recall": 0.1726793038287273,
+      "f1-score": 0.14399350589302462,
+      "support": 273.0
+    },
+    "weighted avg": {
+      "precision": 0.23433886010105523,
+      "recall": 0.32967032967032966,
+      "f1-score": 0.24531644786202997,
+      "support": 273.0
+    }
+  }
+}

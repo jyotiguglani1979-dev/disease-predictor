@@ -1,0 +1,86 @@
+[
+  {
+    "title": "MedlinePlus: When to use the emergency room (adult)",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000593.htm",
+    "publisher": "U.S. National Library of Medicine",
+    "summary": "Seek emergency services for severe chest pain or pressure, severe breathing trouble, stroke warning signs, severe allergic reactions with breathing difficulty, loss of consciousness, or other immediately life-threatening symptoms. Use the local emergency number."
+  },
+  {
+    "title": "MedlinePlus: Chest pain",
+    "url": "https://medlineplus.gov/ency/article/003079.htm",
+    "publisher": "U.S. National Library of Medicine",
+    "summary": "Chest pain can have many causes. New, severe, persistent or associated symptoms require prompt medical assessment. Call emergency services for severe chest symptoms or symptoms at rest; do not use an app to rule out an emergency."
+  },
+  {
+    "title": "WHO: Sepsis fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/sepsis",
+    "publisher": "World Health Organization",
+    "summary": "Sepsis is a medical emergency. Infection with severe illness or rapid deterioration needs urgent medical attention; signs may include altered mental state, difficulty breathing, rapid heart rate, weak pulse, fever or low temperature, and severe pain or discomfort."
+  },
+  {
+    "title": "NHLBI: Framingham Heart Study",
+    "url": "https://www.nhlbi.nih.gov/science/framingham-heart-study-fhs",
+    "publisher": "National Heart, Lung, and Blood Institute (NIH)",
+    "summary": "The Framingham Heart Study is a long-running population study begun in 1948 to identify factors associated with cardiovascular disease. Research datasets are available through NHLBI repositories and may require a data request and review."
+  },
+  {
+    "title": "NHLBI BioLINCC: Framingham Heart Study Cohort",
+    "url": "https://biolincc.nhlbi.nih.gov/studies/framcohort/",
+    "publisher": "NHLBI BioLINCC",
+    "summary": "Framingham cohort data are available by request through BioLINCC. Access has study requirements, including ethics review, and it is not an unrestricted immediate download."
+  },
+  {
+    "title": "NCDC India: National Treatment Guidelines — Enteric Fever",
+    "url": "https://www.ncdc.mohfw.gov.in/wp-content/uploads/2024/03/16436207411618303414.pdf",
+    "publisher": "National Centre for Disease Control, Ministry of Health & Family Welfare, India",
+    "summary": "India's NCDC treatment guidance describes acute typhoid (enteric fever) as typically involving prolonged fever, altered bowel function, headache, malaise, and anorexia. It defines confirmed cases using fever of at least 38 C for at least three days plus laboratory culture confirmation. Symptom overlap alone is not confirmation."
+  },
+  {
+    "title": "WHO: Typhoid fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/typhoid",
+    "publisher": "World Health Organization",
+    "summary": "WHO describes typhoid fever symptoms as prolonged fever, fatigue, headache, nausea, abdominal pain, and constipation or diarrhoea. Symptoms can be non-specific and overlap with other febrile illnesses; confirmation requires clinical evaluation and testing."
+  },
+  {
+    "title": "NCDC India: Scrub Typhus information for acute febrile illness",
+    "url": "https://ncdc.mohfw.gov.in/wp-content/uploads/2024/03/Scrub-Typhus-Pamphlet_New.cdr_.pdf",
+    "publisher": "National Centre for Disease Control, Ministry of Health & Family Welfare, India",
+    "summary": "NCDC India describes scrub typhus in the context of acute febrile illness and lists fever, chills, headache, body aches, and muscle pain among possible symptoms. These findings overlap with many illnesses and do not establish a diagnosis."
+  },
+  {
+    "title": "CDC: About Common Cold",
+    "url": "https://www.cdc.gov/common-cold/about/index.html",
+    "publisher": "U.S. Centers for Disease Control and Prevention",
+    "summary": "Common cold symptoms can include runny or stuffy nose, cough, sneezing, sore throat, headache, and mild body aches. Other respiratory viruses can cause cold-like symptoms, so symptoms alone do not confirm a common cold."
+  },
+  {
+    "title": "MedlinePlus: Headache",
+    "url": "https://medlineplus.gov/ency/article/003024.htm",
+    "publisher": "U.S. National Library of Medicine",
+    "summary": "Headache is pain or discomfort in the head, scalp, or neck and can have many causes. Some headaches need urgent medical attention, especially sudden severe headache or headache with neurologic symptoms."
+  },
+  {
+    "title": "MedlinePlus: Migraine",
+    "url": "https://medlineplus.gov/migraine.html",
+    "publisher": "U.S. National Library of Medicine",
+    "summary": "Migraine can include moderate to severe headache, nausea, and sensitivity to light or sound, but symptoms vary. A health care provider determines whether symptoms are migraine or another condition."
+  },
+  {
+    "title": "MedlinePlus: Abdominal Pain",
+    "url": "https://medlineplus.gov/ency/article/003120.htm",
+    "publisher": "U.S. National Library of Medicine",
+    "summary": "Abdominal pain can be felt between the chest and groin and can result from many different conditions. Location, timing, and associated symptoms help a provider evaluate it; the symptom alone does not identify a cause."
+  },
+  {
+    "title": "WHO: Dengue and severe dengue",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+    "publisher": "World Health Organization",
+    "summary": "Dengue symptoms may include sudden fever, severe headache, pain behind the eyes, muscle and joint pain, nausea, vomiting, swollen glands, and rash. Severe dengue can become a medical emergency with bleeding, plasma leakage, or shock."
+  },
+  {
+    "title": "WHO: Malaria",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "publisher": "World Health Organization",
+    "summary": "Malaria symptoms may include fever, headache, chills, and fatigue, often developing in recurring attacks. Confirmed diagnosis requires malaria testing rather than symptoms alone."
+  }
+]

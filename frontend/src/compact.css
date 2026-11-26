@@ -1,0 +1,20 @@
+.result-header p:not(.eyebrow),
+.scores-card .scores-foot,
+.scores-card .score-note,
+.knowledge-matches,
+.ai-explanation small,
+.source-details {
+  display: none;
+}
+
+.result-header {
+  margin-bottom: 10px;
+}
+
+.scores-card {
+  padding-top: 16px;
+}
+
+.ai-explanation {
+  margin-top: 8px;
+}

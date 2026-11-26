@@ -1,0 +1,54 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+backend/venv/
+backend/venv311/
+node_modules/
+dist/
+.env
+backend/.env
+backend.env
+backend/artifacts/*
+!backend/artifacts/.gitkeep
+!backend/artifacts/ddxplus_model.joblib
+!backend/artifacts/ddxplus_evaluation.json
+
+# Python virtual environments
+**/venv/
+**/.venv/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# Frontend dependencies
+**/node_modules/
+**/dist/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Local backup
+.gitignore.backup
+
+# Large datasets
+db/release_train_patients
+db/release_test_patients*
+db/release_validate_patients
+db/Disease and symptoms dataset.csv
+db/synthea/claims_transactions.csv
+db/synthea/observations.csv
+heartai/data/raw/heart_2022_with_nans.csv
+
+# Python cache
+__pycache__/
+*.pyc

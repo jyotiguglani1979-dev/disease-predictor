@@ -1,0 +1,49 @@
+{
+  "clinical_model": {
+    "chosen": "xgboost_depth2",
+    "leave_one_hospital_out_auc": 0.813,
+    "random_cv_auc": 0.8882499438333836
+  },
+  "heart_attack_model": {
+    "chosen": "xgboost_depth4",
+    "test": {
+      "auc": 0.8325310487252955,
+      "pr_auc": 0.23688144873924152,
+      "brier": 0.04577376007480202
+    },
+    "alert": {
+      "threshold": 0.0886,
+      "recall": 0.6804857621440537,
+      "precision": 0.16743083818453455,
+      "flagged_share": 0.2213441890166028
+    }
+  },
+  "angina_chd_model": {
+    "chosen": "xgboost_depth6",
+    "test": {
+      "auc": 0.8430335343254506,
+      "pr_auc": 0.2542447750840886,
+      "brier": 0.049242373818965096
+    },
+    "alert": {
+      "threshold": 0.0952,
+      "recall": 0.7183556405353728,
+      "precision": 0.182982661211767,
+      "flagged_share": 0.23412698412698413
+    }
+  },
+  "risk_10year_model": {
+    "chosen": "logistic_regression",
+    "test": {
+      "auc": 0.6950437192051837,
+      "pr_auc": 0.2727218247517245,
+      "brier": 0.12238729282391506
+    },
+    "alert": {
+      "threshold": 0.1294,
+      "recall": 0.6589147286821705,
+      "precision": 0.22606382978723405,
+      "flagged_share": 0.44339622641509435
+    }
+  }
+}
